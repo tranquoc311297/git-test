@@ -13,6 +13,7 @@ public class HelloWorldApplication {
 
 	public static void main(String[] args) {
 		System.out.println("CI test");
+		System.out.println("CI test 1 ");
 		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 
